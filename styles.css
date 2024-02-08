@@ -6,17 +6,6 @@ body {
     padding: 20px;
 }
 
-h1 {
-    color: #333;
-    text-align: center;
-}
-
-p {
-    color: #666;
-    font-size: 16px;
-    line-height: 1.5;
-}
-
 /* Ajout de styles pour la nouvelle section */
 .new-section {
     background-color: #fff;
